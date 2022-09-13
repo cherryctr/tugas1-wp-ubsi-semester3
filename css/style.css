@@ -4,6 +4,9 @@ body {
   background-color: #ffffff;
 }
 
+.test-input {
+  border: 1px solid grey !important;
+}
 .test-btn {
     background-color: #4f95d0;
     padding: 12px 55px;
